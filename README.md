@@ -8,7 +8,7 @@ Market Basket Analysis is a data mining technique used to uncover associations b
 
 ## Dataset
 
-Amazon product dataset from Kaggle 
+Amazon product dataset from [Kaggle](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
 
 ## Data Preprocessing
 
@@ -46,10 +46,10 @@ Amazon product dataset from Kaggle
 
 ## Project Contributors
 
-- Prafull Raj | AP21110011016
-- Atharva Narkhede | AP21110011028
-- Rahul Bajaj | AP21110011022
-- Vrijeshwar Singh | AP21110010922
-- Aditya Dubey | AP21110010729
+- [Prafull Raj](https://github.com/PrafullRaj) | AP21110011016
+- [Atharva Narkhede](https://github.com/atharva-narkhede) | AP21110011028
+- [Rahul Bajaj](https://github.com/RahulBBajaj) | AP21110011022
+- [Vrijeshwar Singh](https://github.com/Vrijeshwar) | AP21110010922
+- [Aditya Dubey](https://github.com/AdityaDubey0902) | AP21110010729
 
 ### Under the Guidance of Murali Krishna Enduri, SRM University – AP, Andhra Pradesh
